@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Orange HRM portal automation">
+    <test name="Login New User">
+        <classes>
+            <class name="TestRunner.EmployeeTestRunner"></class>
+        </classes>
+    </test>
+</suite>
