@@ -10,6 +10,6 @@
 - jdk
 - gradle
 ## How to run
-- clone this project
+- Clone this project
 - Give the following commands for regression test: gradle clean test -Pfilesuite="RegressionMasterSuite.xml"
   
